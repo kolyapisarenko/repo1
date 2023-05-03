@@ -1,7 +1,15 @@
 .buton {
 	text-decoration: none;
+	color: #C0C0C0;
 }
 
 .help {
 	color: white;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-thickness: 10px;
+	color: white;
+	text-decoration-color: #F08080;
 }
